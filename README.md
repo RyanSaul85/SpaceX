@@ -11,11 +11,10 @@ Looking into SpaceX launches to understand how their launches are cheaper than o
   - Data wrangling
 - Exploratory Data Analysis (EDA)
   - EDA using SQL
-  - EDA with visulaizations
+  - EDA with visulizations
 - Interactive visual analytics and dashboard
   - Folium for interactive visuals
   - Plotly Dash for interactive dashboard
 - Predictive Analysis (Classification)
   - Using machine learning
 - Conclusions
-  - Presented in a presentation
